@@ -1,6 +1,6 @@
-# Instant Teleport
+#Animation teleport skip
 
-Instant Teleport is a Dalamud plugin for FFXIV that makes Teleport and Return feel faster.
+Animation teleport skip is a Dalamud plugin for FFXIV that makes Teleport and Return feel faster.
 
 ## What it does
 
