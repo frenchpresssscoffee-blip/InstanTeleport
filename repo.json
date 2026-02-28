@@ -8,11 +8,11 @@
     "InternalName": "InstantTeleport",
     "AssemblyVersion": "1.0.0.0",
     "TestingAssemblyVersion": "1.0.0.0",
-    "RepoUrl": "https://github.com/frenchpresssscoffee-blip/skip",
+    "RepoUrl": "https://github.com/frenchpresssscoffee-blip/InstanTeleport",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/skip/5577b7a2c019220f321aa31e1619e5e45af3fc18/InstantTeleport.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/skip/5577b7a2c019220f321aa31e1619e5e45af3fc18/InstantTeleport.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/skip/5577b7a2c019220f321aa31e1619e5e45af3fc18/InstantTeleport.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/InstanTeleport/main/InstantTeleport.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/InstanTeleport/main/InstantTeleport.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/InstanTeleport/main/InstantTeleport.zip"
   }
 ]
