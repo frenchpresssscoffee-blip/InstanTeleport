@@ -11,8 +11,8 @@
     "RepoUrl": "https://github.com/frenchpresssscoffee-blip/skip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/frenchpresssscoffee-blip/skip/releases/download/v1.0.0/InstantTeleport.zip",
-    "DownloadLinkUpdate": "https://github.com/frenchpresssscoffee-blip/skip/releases/download/v1.0.0/InstantTeleport.zip",
-    "DownloadLinkTesting": "https://github.com/frenchpresssscoffee-blip/skip/releases/download/v1.0.0/InstantTeleport.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/skip/main/InstantTeleport.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/skip/main/InstantTeleport.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/skip/main/InstantTeleport.zip"
   }
 ]
