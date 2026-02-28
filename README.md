@@ -18,7 +18,7 @@ Instant Teleport is a Dalamud plugin for FFXIV that makes Teleport and Return fe
 
 Add this custom repo URL in Dalamud:
 
-`https://raw.githubusercontent.com/frenchpresssscoffee-blip/skip/main/repo.json`
+`https://raw.githubusercontent.com/frenchpresssscoffee-blip/skip/442aeab/repo-v2.json`
 
 ## Notes
 
