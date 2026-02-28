@@ -19,7 +19,3 @@ Animation teleport skip is a Dalamud plugin for FFXIV that makes Teleport and Re
 Add this custom repo URL in Dalamud:
 
 `https://raw.githubusercontent.com/frenchpresssscoffee-blip/InstanTeleport/main/repo.json`
-
-## Notes
-
-Use at your own risk and only in environments you are authorized to modify.
