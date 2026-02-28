@@ -1,0 +1,13 @@
+{
+  "Author": "Administrator",
+  "Name": "Instant Teleport",
+  "InternalName": "InstantTeleport",
+  "Punchline": "Instant Teleport/Return cast and faster transition screen.",
+  "Description": "Removes Teleport/Return cast time and minimizes the transition screen. Commands: /instanttp, /instanttp status, /instanttp debug.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "ffxiv",
+    "teleport",
+    "qol"
+  ]
+}

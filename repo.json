@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "Administrator",
+    "Name": "Instant Teleport",
+    "Punchline": "Instant Teleport/Return cast and faster transition screen.",
+    "Description": "Removes Teleport/Return cast time and minimizes the transition screen. Commands: /instanttp, /instanttp status, /instanttp debug.",
+    "Tags": [ "ffxiv", "teleport", "qol" ],
+    "InternalName": "InstantTeleport",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/YOUR_GITHUB_USER/YOUR_REPO",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadLinkInstall": "https://github.com/YOUR_GITHUB_USER/YOUR_REPO/releases/download/v1.0.0/InstantTeleport.zip",
+    "DownloadLinkUpdate": "https://github.com/YOUR_GITHUB_USER/YOUR_REPO/releases/download/v1.0.0/InstantTeleport.zip",
+    "DownloadLinkTesting": "https://github.com/YOUR_GITHUB_USER/YOUR_REPO/releases/download/v1.0.0/InstantTeleport.zip"
+  }
+]
